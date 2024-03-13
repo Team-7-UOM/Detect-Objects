@@ -12,6 +12,8 @@ These codes can be used to detect wood blocks of different shapes, colors and ou
      ```/object_detection/object_detection/Image_convert_node.py
      ``` 
      and run it in Code or Pycharm.When the depth camera captures the target image, a rectangular box marked with the class will appear in the target image, and a highlighted area will appear.
+     ![image](https://github.com/QinGuo-hub/Detect_Object/blob/main/testpicture/Screenshot%20from%202024-03-13%2000-50-49.png)
+     ![image]()
      
       
     
