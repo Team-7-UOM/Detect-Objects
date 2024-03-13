@@ -22,6 +22,7 @@ These codes can be used to detect wood blocks of different shapes, colors and ou
    ```
    
    and run it in Code or Pycharm.When the target is recognized, the code outputs the 3D coordinates of the target relative to the depth camera in the terminal and displays the distance (depth) in the real-time image.
+   ![image](https://github.com/QinGuo-hub/Detect_Object/blob/main/testpicture/Screenshot%20from%202024-03-13%2001-00-25.png)
    ![image]()
    
      
