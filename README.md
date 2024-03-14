@@ -8,7 +8,7 @@ These codes can be used to detect wood blocks of different shapes, colors and ou
    ros2 launch realsense2_camera rs_launch.py depth_module.profile:=1280x720x30 pointcloud.enable:=true
    ```
    ## 2.Use your own yolov5 model
-   Here,I used my owm yolov5 model (Attention:change the file path)
+   Here,I used my own yolov5 model to identify the cubes (Attention:change the file path)
    ## 3. Open Image_convert_node.py
    Open the
      ```
