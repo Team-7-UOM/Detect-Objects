@@ -1,5 +1,9 @@
 # Detect_Object
 These codes can be used to detect wood blocks of different shapes, colors and output 3D coordinates.
+# Preparation
+Depth camera D435, YOLOv5 model and cubes
+
+
 # How to use
 
    
